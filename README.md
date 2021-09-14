@@ -1,2 +1,2 @@
 # JmsTemplate
-:star: # The Spring Framework JmsTemplate.java source code
+:star: # O código-fonte JmsTemplate.java do Spring Framework
